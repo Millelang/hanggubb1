@@ -5,16 +5,17 @@ import java.util.concurrent.ThreadLocalRandom;
 
 public class Noel{
 // skapa respons till personens gissningar, om det är rätt eller fel
-        public static String main(String x, String y){
+        public static void main(String[] args){
+                char bokstav = Noel.lasInEnBokstav();
+        }
+
+        public static char lasInEnBokstav() {
                 Scanner in = new Scanner(System.in);
                 String gissning = in.next();
-                int antal = 0;
-                for (x=0)
+                return gissning.charAt(0);
+        }
 
-                System.out.println();
-
-
-
+        public static boolean KollaOmBokstavFinns() {
 
         }
 }
