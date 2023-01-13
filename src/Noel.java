@@ -15,7 +15,9 @@ public class Noel{
                 return gissning.charAt(0);
         }
 
-        public static boolean KollaOmBokstavFinns() {
+        public static void RitaBild (0) {
 
         }
+
+
 }
