@@ -15,7 +15,7 @@ public class Noel{
                 return gissning.charAt(0);
         }
 
-        public static void RitaBild (int n) {
+        public static String RitaBild (int n) {
                 String bild = "";
                 if (n == 0) {
                         bild =  "\n" +
@@ -111,9 +111,9 @@ public class Noel{
 
         }
 
-        }
+
                 System.out.println(bild);
         }
 
 
-}
+
