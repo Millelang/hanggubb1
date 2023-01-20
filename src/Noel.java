@@ -108,12 +108,13 @@ public class Noel{
                                 " ______" + "\n" +
                                 "/      \\";
                 }
-
+return  bild;
         }
 
 
-                System.out.println(bild);
+
         }
+
 
 
 
