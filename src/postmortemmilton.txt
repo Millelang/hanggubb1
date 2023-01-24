@@ -1,0 +1,38 @@
+# Hänga gubbe
+
+Milton Långström 24/01
+
+## Inledning
+
+Syftet med detta arbete var att ska ett program som liknar spelet hänga gubbe
+
+## Bakgrund
+
+Gjorde tre olika metoder, en som valde ett slumpat ord från en ordlista, den andra gjorde om ordet till "-",
+den trejde metoden läste in ordet, tog in en gissning, kollade om den bokstaven finns i ordet och om man använt alla 9 gissningar även om man har lyckats hitta ordet
+
+Använd gärna bilder för att illustrera.
+
+För att lägga till bilder i markdown. Bilderna kan du ladda upp med Git som vanligt, länka dem med url eller filnamnet.
+
+```
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+```
+
+![NTI Gymnasiet Umeå Logo](https://raw.githubusercontent.com/jensnti/Webbprojekt/master/mallar/nti_logo_white_umea.svg)
+
+## Positiva erfarenheter
+
+Blivit bättre på att använda och skapa metoder. Även lärt mig hur man konverterar arrays till strings. Även lärt mig att
+jag inte borde göra allt för komplicerade metoder eftersom att det blir lätt att något går fel då.
+## Negativa erfarenheter
+
+Gjorde en allt för komplicerad metod, trodde jag skulle kunna fixa det men tog mig vatten över huvudet
+## Sammanfattning
+
+Här redovisar du dina slutsatser, erfarenheter och lärdomar. Reflektera över din produkt och dess/dina utvecklingsmöjligheter.
+Vad kan vidareutvecklas och finns det utrymme att bygga vidare på projektet.
+Vi hann inte helt klart med hängagubbe programmet men om jag hade gjort om det så hade jag först planerat alla metoder i
+förväg eftersom att då blir det enklare för mig att inte skapa allt för komplicerade metoder. Så det jag har lärt mig från
+detta projekt är att göra enkla och korta metoder hellre än långa och komplicerade och hur man använder github inuti intellij.
