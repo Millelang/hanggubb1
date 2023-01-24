@@ -1,0 +1,28 @@
+                                 Hänga gubbe
+                                 Noel 2023-01-24
+
+Jag och Milton fick i uppgift att skapa ett hänga gubbe i Java. Vi arbetade enskilt på olika aspekt av
+programmet.
+
+
+Jag skapade en metod för att läsa in bokstaven som personen gissar på.
+Så till det så skapade jag en string som är samma sak som personen som gissar skriver som gissning.
+
+Sedan så skapade jag en metod för att ge respons till personen som gissat.
+Jag skapade en string som får olika responser baserat på hur många felgissningar personen har.
+Hur många felgissningar personen har är värdet på en int.
+
+Det som gått bra:
+Sammarbeta
+Använda sig av String och int
+Skapa figuren man får som respons
+
+Det som gått dåligt:
+Använda sig av scanner (Jag är inte riktigt vann med det än men borde nog bli det snart.)
+Förstå vad som behövdes göras själv (Jag behövde ganska mycket hjälp för att veta vad jag behövde göra
+för att lösa vissa problem)
+Metoder (Har lärt mig mycket om metoder på grund av denna uppgift men fattar inte helt hur dom funkar)
+
+Så för att sammanfatta så har det gått ganska så bra men jag känner att jag behöver lära mig väldigt
+mycket mer så att jag kan skapa program utan hjälp. Jag behöver bättre förståelse över vad alla
+saker i java gör och hur eller när man ska använda dem.
